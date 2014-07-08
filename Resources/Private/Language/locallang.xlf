@@ -43,6 +43,43 @@
                         <source>Panel is active?</source>
                     </trans-unit>
 
+		    ##########################
+		    ### Alert              ###
+		    ##########################
+
+                ### Fields ###
+
+                    <trans-unit id="flux.alert" xml:space="preserve">
+                        <source>Bootstrap: Alert (inline)</source>
+                    </trans-unit>
+                    <trans-unit id="flux.alert.description" xml:space="preserve">
+                        <source>Alert box (not popup) inline in page</source>
+                    </trans-unit>
+
+                ### Options ###
+
+                    <trans-unit id="flux.alert.sheets.alerts" xml:space="preserve">
+                        <source>Alerts</source>
+                    </trans-unit>
+                    <trans-unit id="flux.alert.fields.header" xml:space="preserve">
+                        <source>Alert header</source>
+                    </trans-unit>
+                    <trans-unit id="flux.alert.fields.closeLinkText" xml:space="preserve">
+                        <source>Close link text (for example: a single x or &amp;times;)</source>
+                    </trans-unit>
+                    <trans-unit id="flux.alert.fields.class" xml:space="preserve">
+                        <source>Alert box class</source>
+                    </trans-unit>
+                    <trans-unit id="flux.alert.fields.isBlock" xml:space="preserve">
+                        <source>Add additional padding</source>
+                    </trans-unit>
+
+                ### Content ###
+
+                    <trans-unit id="flux.alert.areas.content" xml:space="preserve">
+                        <source>Alert content</source>
+                    </trans-unit>
+
 		</body>
 	</file>
 </xliff>
