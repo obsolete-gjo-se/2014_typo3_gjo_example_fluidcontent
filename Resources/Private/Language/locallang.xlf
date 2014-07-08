@@ -80,6 +80,27 @@
                         <source>Alert content</source>
                     </trans-unit>
 
+
+            ##########################
+            ### ButtonGroup        ###
+            ##########################
+
+                ### Fields ###
+
+                    <trans-unit id="flux.buttonGroup" xml:space="preserve">
+                        <source>Bootstrap: Button Group</source>
+                    </trans-unit>
+                    <trans-unit id="flux.buttonGroup.description" xml:space="preserve">
+                        <source>Renders Twitter Bootstrap button elements added as child content elements in a button grouping wrapper which closely aligns the buttons/links.</source>
+                    </trans-unit>
+                    <trans-unit id="flux.buttonGroup.areas.content" xml:space="preserve">
+                        <source>Buttons</source>
+                    </trans-unit>
+
+                ### Options ###
+
+                ### Content ###
+
 		</body>
 	</file>
 </xliff>
