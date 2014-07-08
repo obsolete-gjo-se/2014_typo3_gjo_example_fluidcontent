@@ -273,6 +273,26 @@
 
                 ### Content ###
 
+            ##########################
+            ### Jumbotron          ###
+            ##########################
+
+                    <trans-unit id="flux.jumbotron" xml:space="preserve">
+                        <source>Bootstrap: Jumbotron</source>
+                    </trans-unit>
+                    <trans-unit id="flux.jumbotron.description" xml:space="preserve">
+                        <source>A very large header-type element into which you can insert other content elements.</source>
+                    </trans-unit>
+
+                ### Fields ###
+
+                    <trans-unit id="flux.jumbotron.areas.content" xml:space="preserve">
+                        <source>Jumbotron content</source>
+                    </trans-unit>
+
+                ### Options ###
+                ### Content ###
+
 		</body>
 	</file>
 </xliff>
