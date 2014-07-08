@@ -386,6 +386,43 @@
                 ### Options ###
                 ### Content ###
 
+
+            ##########################
+            ### Row                ###
+            ##########################
+
+
+                    <trans-unit id="flux.row" xml:space="preserve">
+                        <source>Bootstrap: Column Row</source>
+                    </trans-unit>
+                    <trans-unit id="flux.row.description" xml:space="preserve">
+                        <source>Adds a wrapper element that lets you define columns of varying widths</source>
+                    </trans-unit>
+
+                ### Fields ###
+
+                    <trans-unit id="flux.row.fields.settings.fluid" xml:space="preserve">
+                        <source>Use "fluid" row type instead of standard row</source>
+                    </trans-unit>
+                    <trans-unit id="flux.row.sections.columns" xml:space="preserve">
+                        <source>Columns</source>
+                    </trans-unit>
+                    <trans-unit id="flux.row.objects.column" xml:space="preserve">
+                        <source>Column</source>
+                    </trans-unit>
+                    <trans-unit id="flux.row.objects.column.addWell" xml:space="preserve">
+                        <source>Add 'Well' inside cell</source>
+                    </trans-unit>
+                    <trans-unit id="flux.row.objects.column.class" xml:space="preserve">
+                        <source>Class</source>
+                    </trans-unit>
+                    <trans-unit id="flux.row.objects.column.additionalClass" xml:space="preserve">
+                        <source>Additional CSS class names</source>
+                    </trans-unit>
+
+                ### Options ###
+                ### Content ###
+
 		</body>
 	</file>
 </xliff>
