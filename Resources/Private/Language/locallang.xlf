@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" product-name="gjo_fluidcontent" date="2014-04-18T01:00:11+01:00">
+		<header/>
+		<body>
+
+            ##########################
+            ### Vorlage          ###
+            ##########################
+
+            ### Fields ###
+            ### Options ###
+            ### Content ###
+
+            ##########################
+            ### Accordion          ###
+            ##########################
+
+                ### Fields ###
+
+                    <trans-unit id="flux.accordion" xml:space="preserve">
+                        <source>Bootstrap: Accordion with content elements</source>
+                    </trans-unit>
+                    <trans-unit id="flux.accordion.description" xml:space="preserve">
+                        <source>Accordion element container</source>
+                    </trans-unit>
+
+                ### Options ###
+
+                    <trans-unit id="flux.accordion.sheets.panels" xml:space="preserve">
+                        <source>Panels</source>
+                    </trans-unit>
+                    <trans-unit id="flux.accordion.sections.panels" xml:space="preserve">
+                        <source>Panels</source>
+                    </trans-unit>
+                    <trans-unit id="flux.accordion.objects.panel" xml:space="preserve">
+                        <source>Panel</source>
+                    </trans-unit>
+                    <trans-unit id="flux.accordion.objects.panel.title" xml:space="preserve">
+                        <source>Panel header/title</source>
+                    </trans-unit>
+                    <trans-unit id="flux.accordion.objects.panel.active" xml:space="preserve">
+                        <source>Panel is active?</source>
+                    </trans-unit>
+
+		</body>
+	</file>
+</xliff>
