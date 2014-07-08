@@ -101,6 +101,85 @@
 
                 ### Content ###
 
+            ##########################
+            ### buttonLink         ###
+            ##########################
+
+                    <trans-unit id="flux.buttonLink" xml:space="preserve">
+                        <source>Bootstrap: Button Link</source>
+                    </trans-unit>
+                    <trans-unit id="flux.buttonLink.description" xml:space="preserve">
+                        <source>Default Twitter Bootstrap button-styled link to a page, file or custom URL.</source>
+                    </trans-unit>
+
+                ### Options ###
+
+                    <trans-unit id="flux.buttonLink.sheets.options" xml:space="preserve">
+                        <source>Options</source>
+                    </trans-unit>
+                    <trans-unit id="flux.buttonLink.fields.target" xml:space="preserve">
+                        <source>Link target</source>
+                    </trans-unit>
+                    <trans-unit id="flux.buttonLink.fields.text" xml:space="preserve">
+                        <source>Link text</source>
+                    </trans-unit>
+                    <trans-unit id="flux.buttonLink.fields.tooltip" xml:space="preserve">
+                        <source>Display title as tooltip</source>
+                    </trans-unit>
+                    <trans-unit id="flux.buttonLink.fields.title" xml:space="preserve">
+                        <source>Optional title, appears as tooltip if tooltip is enabled</source>
+                    </trans-unit>
+                    <trans-unit id="flux.buttonLink.fields.iconClass" xml:space="preserve">
+                        <source>Optional icon class name, example 'envelope' or 'exclamation-sign'</source>
+                    </trans-unit>
+                    <trans-unit id="flux.buttonLink.fields.iconPlacement" xml:space="preserve">
+                        <source>Icon placement - left or right</source>
+                    </trans-unit>
+                    <trans-unit id="flux.buttonLink.fields.size" xml:space="preserve">
+                        <source>LinkButton size</source>
+                    </trans-unit>
+                    <trans-unit id="flux.buttonLink.fields.block" xml:space="preserve">
+                        <source>Display button as block element (100% width)</source>
+                    </trans-unit>
+                    <trans-unit id="flux.buttonLink.fields.class" xml:space="preserve">
+                        <source>LinkButton style type</source>
+                    </trans-unit>
+                    <trans-unit id="flux.buttonLink.fields.additionalClassNames" xml:space="preserve">
+                        <source>Additional class names for LinkButton element</source>
+                    </trans-unit>
+                    <trans-unit id="flux.buttonLink.fields.wrapTag" xml:space="preserve">
+                        <source>Wrap with tag</source>
+                    </trans-unit>
+                    <trans-unit id="flux.buttonLink.sheets.addons" xml:space="preserve">
+                        <source>Addons</source>
+                    </trans-unit>
+                    <trans-unit id="flux.buttonLink.sections.addons" xml:space="preserve">
+                        <source>Addons</source>
+                    </trans-unit>
+                    <trans-unit id="flux.buttonLink.objects.popover" xml:space="preserve">
+                        <source>Popover dialog</source>
+                    </trans-unit>
+                    <trans-unit id="flux.buttonLink.objects.popover.title" xml:space="preserve">
+                        <source>Popover title</source>
+                    </trans-unit>
+                    <trans-unit id="flux.buttonLink.objects.popover.content" xml:space="preserve">
+                        <source>Popover content</source>
+                    </trans-unit>
+                    <trans-unit id="flux.buttonLink.objects.modal" xml:space="preserve">
+                        <source>Modal dialog</source>
+                    </trans-unit>
+                    <trans-unit id="flux.buttonLink.objects.modal.title" xml:space="preserve">
+                        <source>Modal dialog title</source>
+                    </trans-unit>
+                    <trans-unit id="flux.buttonLink.objects.modal.content" xml:space="preserve">
+                        <source>Content elements to be displayed</source>
+                    </trans-unit>
+                    <trans-unit id="flux.buttonLink.edit" xml:space="preserve">
+                        <source>Edit</source>
+                    </trans-unit>
+
+                ### Content ###
+
 		</body>
 	</file>
 </xliff>
