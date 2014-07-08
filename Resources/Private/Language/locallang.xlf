@@ -423,6 +423,59 @@
                 ### Options ###
                 ### Content ###
 
+
+            ##########################
+            ### Tabs               ###
+            ##########################
+
+                    <trans-unit id="flux.tabs" xml:space="preserve">
+                        <source>Bootstrap: Tabs/pills with content elements</source>
+                    </trans-unit>
+                    <trans-unit id="flux.tabs.description" xml:space="preserve">
+                        <source>Places child content elements in tabs.</source>
+                    </trans-unit>
+
+
+
+                ### Fields ###
+
+                    <trans-unit id="flux.tabs.sheets.display" xml:space="preserve">
+                        <source>Display</source>
+                    </trans-unit>
+                    <trans-unit id="flux.tabs.fields.mode" xml:space="preserve">
+                        <source>Display mode</source>
+                    </trans-unit>
+                    <trans-unit id="flux.tabs.fields.stackable" xml:space="preserve">
+                        <source>Make stackable tabs/pills</source>
+                    </trans-unit>
+                    <trans-unit id="flux.tabs.fields.position" xml:space="preserve">
+                        <source>Positioning</source>
+                    </trans-unit>
+                    <trans-unit id="flux.tabs.sheets.tabs" xml:space="preserve">
+                        <source>Tabs</source>
+                    </trans-unit>
+                    <trans-unit id="flux.tabs.sections.tabs" xml:space="preserve">
+                        <source>Tabs</source>
+                    </trans-unit>
+                    <trans-unit id="flux.tabs.objects.tab" xml:space="preserve">
+                        <source>Tab</source>
+                    </trans-unit>
+                    <trans-unit id="flux.tabs.objects.tab.title" xml:space="preserve">
+                        <source>Tab title</source>
+                    </trans-unit>
+                    <trans-unit id="flux.tabs.objects.tab.class" xml:space="preserve">
+                        <source>Additional CSS class names</source>
+                    </trans-unit>
+                    <trans-unit id="flux.tabs.objects.tab.active" xml:space="preserve">
+                        <source>Active?</source>
+                    </trans-unit>
+                    <trans-unit id="flux.tabs.objects.tab.fade" xml:space="preserve">
+                        <source>Enable fading effect</source>
+                    </trans-unit>
+
+                ### Options ###
+                ### Content ###
+
 		</body>
 	</file>
 </xliff>
