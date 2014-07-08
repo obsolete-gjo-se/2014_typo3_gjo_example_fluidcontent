@@ -293,6 +293,75 @@
                 ### Options ###
                 ### Content ###
 
+
+            ##########################
+            ### NavigationList     ###
+            ##########################
+
+                    <trans-unit id="flux.navigationlist" xml:space="preserve">
+                        <source>Bootstrap: Navigation List</source>
+                    </trans-unit>
+                    <trans-unit id="flux.navigationlist.description" xml:space="preserve">
+                        <source>Configurable navigation list of links to various resources.</source>
+                    </trans-unit>
+
+                ### Fields ###
+
+                    <trans-unit id="flux.navigationlist.sheets.display" xml:space="preserve">
+                        <source>Display</source>
+                    </trans-unit>
+                    <trans-unit id="flux.navigationlist.fields.addWell" xml:space="preserve">
+                        <source>Add well wrapper</source>
+                    </trans-unit>
+                    <trans-unit id="flux.navigationlist.fields.zeroPadding" xml:space="preserve">
+                        <source>Do not pad the wrapper</source>
+                    </trans-unit>
+                    <trans-unit id="flux.navigationlist.fields.class" xml:space="preserve">
+                        <source>Additional class names for wrapper element</source>
+                    </trans-unit>
+                    <trans-unit id="flux.navigationlist.sheets.items" xml:space="preserve">
+                        <source>Items</source>
+                    </trans-unit>
+                    <trans-unit id="flux.navigationlist.sections.items" xml:space="preserve">
+                        <source>Items</source>
+                    </trans-unit>
+                    <trans-unit id="flux.navigationlist.objects.header" xml:space="preserve">
+                        <source>Header</source>
+                    </trans-unit>
+                    <trans-unit id="flux.navigationlist.objects.header.text" xml:space="preserve">
+                        <source>Header text</source>
+                    </trans-unit>
+                    <trans-unit id="flux.navigationlist.objects.header.class" xml:space="preserve">
+                        <source>Additional CSS class names</source>
+                    </trans-unit>
+                    <trans-unit id="flux.navigationlist.objects.item" xml:space="preserve">
+                        <source>List Item</source>
+                    </trans-unit>
+                    <trans-unit id="flux.navigationlist.objects.item.text" xml:space="preserve">
+                        <source>Item label text</source>
+                    </trans-unit>
+                    <trans-unit id="flux.navigationlist.objects.item.tooltip" xml:space="preserve">
+                        <source>Optional tooltip text</source>
+                    </trans-unit>
+                    <trans-unit id="flux.navigationlist.objects.item.icon" xml:space="preserve">
+                        <source>Optional icon (16x16)</source>
+                    </trans-unit>
+                    <trans-unit id="flux.navigationlist.objects.item.target" xml:space="preserve">
+                        <source>Target</source>
+                    </trans-unit>
+                    <trans-unit id="flux.navigationlist.objects.item.class" xml:space="preserve">
+                        <source>Additional CSS class names</source>
+                    </trans-unit>
+                    <trans-unit id="flux.navigationlist.objects.divider" xml:space="preserve">
+                        <source>Divider</source>
+                    </trans-unit>
+                    <trans-unit id="flux.navigationlist.objects.divider.class" xml:space="preserve">
+                        <source>Additional CSS class names</source>
+                    </trans-unit>
+
+                ### Options ###
+                ### Content ###
+
 		</body>
 	</file>
 </xliff>
