@@ -539,6 +539,22 @@
                         <source> </source>
                     </trans-unit>
 
+
+            ##########################
+            ### Well               ###
+            ##########################
+
+
+                <trans-unit id="flux.well" xml:space="preserve">
+                    <source>Bootstrap: Content well</source>
+                </trans-unit>
+                <trans-unit id="flux.well.description" xml:space="preserve">
+                    <source>Visual well for other content elements</source>
+                </trans-unit>
+                <trans-unit id="flux.well.areas.content" xml:space="preserve">
+                    <source>Content elements</source>
+                </trans-unit>
+
 		</body>
 	</file>
 </xliff>
