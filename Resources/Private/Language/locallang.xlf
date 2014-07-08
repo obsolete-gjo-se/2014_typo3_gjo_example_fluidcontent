@@ -180,6 +180,99 @@
 
                 ### Content ###
 
+            ##########################
+            ### Carousel           ###
+            ##########################
+
+                ### Fields ###
+
+                    <trans-unit id="flux.carousel" xml:space="preserve">
+                        <source>Bootstrap: Element Carousel</source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.description" xml:space="preserve">
+                        <source>Content elements, images or simple texts (each type supporting captions) in a carousel matrix with JS based slide change.</source>
+                    </trans-unit>
+
+                    <trans-unit id="flux.carousel.sheets.options" xml:space="preserve">
+                        <source>Die Optionen</source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.fields.settings.carousel.quickselect" xml:space="preserve">
+                        <source>Display circle icons for direct selection of slides, default top right corner</source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.fields.settings.carousel.quickselectType" xml:space="preserve">
+                        <source>Choose navigation display type</source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.fields.settings.carousel.interval" xml:space="preserve">
+                        <source>Interval between image changes, in miliseconds (default: 5000)</source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.fields.settings.carousel.id" xml:space="preserve">
+                        <source>DOM element ID (override not necessary but possible)</source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.fields.settings.carousel.labelNext" xml:space="preserve">
+                        <source>Label: next (empty will display default arrow)</source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.fields.settings.carousel.labelPrev" xml:space="preserve">
+                        <source>Label: previous (empty will display default arrow)</source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.fields.settings.carousel.width" xml:space="preserve">
+                        <source>Image width, supports TS IMAGE widths, fx 250c to set width 250 with cropping</source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.sheets.elements" xml:space="preserve">
+                        <source>Content elements</source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.sections.elements" xml:space="preserve">
+                        <source>Content elements</source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.objects.text" xml:space="preserve">
+                        <source>Text</source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.objects.text.title" xml:space="preserve">
+                        <source>Header</source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.objects.text.size" xml:space="preserve">
+                        <source>Text size</source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.objects.text.text" xml:space="preserve">
+                        <source>Text</source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.objects.content" xml:space="preserve">
+                        <source>Content elements</source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.objects.content.id" xml:space="preserve">
+                        <source>Content area ID</source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.objects.image" xml:space="preserve">
+                        <source>Image</source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.objects.image.file" xml:space="preserve">
+                        <source>Image file</source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.sheets.styles" xml:space="preserve">
+                        <source>Styles</source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.fields.void" xml:space="preserve">
+                        <source> </source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.fields.settings.carousel.autostart" xml:space="preserve">
+                        <source>Should the carousel start sliding on page-load?</source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.fields.settings.carousel.quickselectStyles" xml:space="preserve">
+                        <source>Optional CSS rule for the quick slide selector dots container</source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.fields.settings.carousel.quickselectDotStyles" xml:space="preserve">
+                        <source>Optional CSS rule for the quick slide selector dots</source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.fields.settings.carousel.navigationStyles" xml:space="preserve">
+                        <source>Optional CSS rule for the navigation dots</source>
+                    </trans-unit>
+                    <trans-unit id="flux.carousel.fields.settings.carousel.innerStyles" xml:space="preserve">
+                        <source>CSS rule for inside of carousel</source>
+                    </trans-unit>
+
+                ### Options ###
+
+                ### Content ###
+
 		</body>
 	</file>
 </xliff>
